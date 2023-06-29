@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @H-Yuhs
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m Hassan
+- 👀 I’m interested in Software Engineering and Frontend roles
 - 🌱 I’m currently building projects with ReactJS(NextJs) and Javascript
 - 💞️ I’m looking to collaborate on any react project
 - 📫 How to reach me via [Twitter](https://twitter.com/d_dimeji), [hassanadeyemi01@gmail](mailto:hassanadeyemi01@gmail.com)
