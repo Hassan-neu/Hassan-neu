@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @H-Yuhs
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently building projects with ReactJS(NextJs) and Javascript
+- 💞️ I’m looking to collaborate on any react project
+- 📫 How to reach me via [Twitter](https://twitter.com/d_dimeji), [hassanadeyemi01@gmail](mailto:hassanadeyemi01@gmail.com)
 
 <!---
 H-Yuhs/H-Yuhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
